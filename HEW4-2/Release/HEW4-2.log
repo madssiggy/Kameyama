@@ -1,0 +1,65 @@
+﻿  back_ground.cpp
+  camera.cpp
+  camera2.cpp
+c:\users\user\desktop\hew4-2\camera2.cpp(82): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\user\desktop\hew4-2\camera2.cpp(83): warning C4244: '-=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\user\desktop\hew4-2\camera2.cpp(87): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\user\desktop\hew4-2\camera2.cpp(88): warning C4244: '-=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\user\desktop\hew4-2\camera2.cpp(92): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\user\desktop\hew4-2\camera2.cpp(93): warning C4244: '-=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\user\desktop\hew4-2\camera2.cpp(103): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\user\desktop\hew4-2\camera2.cpp(104): warning C4244: '-=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\user\desktop\hew4-2\camera2.cpp(108): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\user\desktop\hew4-2\camera2.cpp(109): warning C4244: '-=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\user\desktop\hew4-2\camera2.cpp(113): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\user\desktop\hew4-2\camera2.cpp(114): warning C4244: '-=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\user\desktop\hew4-2\camera2.cpp(122): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\user\desktop\hew4-2\camera2.cpp(123): warning C4244: '-=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\user\desktop\hew4-2\camera2.cpp(131): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\user\desktop\hew4-2\camera2.cpp(132): warning C4244: '-=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\user\desktop\hew4-2\camera2.cpp(141): warning C4305: '+=': 'double' から 'float' へ切り詰めます。
+c:\users\user\desktop\hew4-2\camera2.cpp(154): warning C4305: '-=': 'double' から 'float' へ切り詰めます。
+c:\users\user\desktop\hew4-2\camera2.cpp(177): warning C4305: '-=': 'double' から 'float' へ切り詰めます。
+c:\users\user\desktop\hew4-2\camera2.cpp(190): warning C4305: '+=': 'double' から 'float' へ切り詰めます。
+  debugproc.cpp
+  drink.cpp
+  fade.cpp
+  game.cpp
+c:\users\user\desktop\hew4-2\scene.h(11): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'SCENE_INDEX' の左辺を無視します。
+c:\users\user\desktop\hew4-2\game.cpp(36): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'PHASE_INDEX' の左辺を無視します。
+  grid.cpp
+  ground.cpp
+c:\users\user\desktop\hew4-2\ground.cpp(872): warning C4244: 'return': 'int' から 'float' への変換です。データが失われる可能性があります。
+  input.cpp
+  light.cpp
+  main.cpp
+c:\users\user\desktop\hew4-2\scene.h(11): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'SCENE_INDEX' の左辺を無視します。
+  meter.cpp
+c:\users\user\desktop\hew4-2\scene.h(11): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'SCENE_INDEX' の左辺を無視します。
+c:\users\user\desktop\hew4-2\meter.cpp(25): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\user\desktop\hew4-2\meter.cpp(27): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+  myDirect3D.cpp
+  particle.cpp
+c:\users\user\desktop\hew4-2\particle.cpp(198): warning C4101: 'fAngle': ローカル変数は 1 度も使われていません。
+  player.cpp
+  RankSystem.cpp
+  result.cpp
+c:\users\user\desktop\hew4-2\scene.h(11): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'SCENE_INDEX' の左辺を無視します。
+  scene.cpp
+c:\users\user\desktop\hew4-2\scene.h(11): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'SCENE_INDEX' の左辺を無視します。
+  score.cpp
+  コンパイル中...
+  shadow.cpp
+  skydome.cpp
+  speedline.cpp
+c:\users\user\desktop\hew4-2\speedline.cpp(200): warning C4101: 'fAngle': ローカル変数は 1 度も使われていません。
+  sprite.cpp
+  texture.cpp
+  title.cpp
+c:\users\user\desktop\hew4-2\scene.h(11): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'SCENE_INDEX' の左辺を無視します。
+c:\users\user\desktop\hew4-2\title.cpp(51): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\user\desktop\hew4-2\title.cpp(55): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+  コード生成しています。
+  All 218 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  コード生成が終了しました。
+  HEW4-2.vcxproj -> C:\Users\user\Desktop\HEW4-2\Release\HEW4-2.exe
